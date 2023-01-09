@@ -108,6 +108,7 @@ html {
 
 body {
   background-color: var(--eerie-black);
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/006/304/604/small/abstract-seamless-black-square-3d-pattern-background-modern-geometric-hexagon-texture-design-eps10-vector.jpg");
   color: var(--roman-silver);
   font-size: 1.6rem;
   line-height: 1.75;
@@ -457,6 +458,7 @@ body.nav-active { overflow: hidden; }
 .hero-title {
   text-transform: uppercase;
   word-break: break-all;
+  margin-left: 40px;
 }
 
 .hero-subtitle {
@@ -467,6 +469,7 @@ body.nav-active { overflow: hidden; }
   letter-spacing: 2px;
   line-height: 1.5em;
   margin-block: 10px 30px;
+   margin-left: 45px;
 }
 
 .hero-banner {
@@ -500,7 +503,8 @@ body.nav-active { overflow: hidden; }
 
 }
 
-.hero .section-text { margin-block: 30px; }
+.hero .section-text { margin-block: 30px; 
+ margin-left: 40px;}
 
 .hero .btn { margin-inline: auto; }
 
